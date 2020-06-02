@@ -1,0 +1,82 @@
+body {
+	font-family: 'Arial';
+	background: #eeeeee;
+}
+
+header {
+	margin-left: 3%;
+}
+
+#login {
+	border: solid gray 1px;
+	width: 18%;
+	border-radius: 5px;
+	margin: 5% auto;
+	background: #f2f2f2;
+	padding: 30px;
+}
+
+#loginbtn {
+	bottom: 20px;
+	border-radius: 5px;
+	color: #ffffff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 40%;
+
+}
+
+#createaccbtn {
+	bottom: 20px;
+	border-radius: 5px;
+	color: #ffffff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 31%;
+}
+
+#nextbtn {
+	bottom: 20px;
+	border-radius: 5px;
+	color: #ffffff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 40%;
+}
+
+
+
+#createAcc {
+	border: solid gray 1px;
+	width: 18%;
+	border-radius: 5px;
+	margin: 5% auto;
+	background: #f2f2f2;
+	padding: 30px;
+}
+
+#cancelbtn {
+	bottom: 20px;
+	border-radius: 5px;
+	color: #ffffff;
+	background: #bd482c;
+	padding: 5px;
+	margin-left: 38%;
+}
+
+#backbtn {
+	bottom: 20px;
+	border-radius: 5px;
+	color: #ffffff;
+	background: #e49327;
+	padding: 5px;
+	margin-left: 40%;
+}
+
+.accOptions {
+	margin-left: 33%;
+}
+
+.entries {
+	margin-left: 10%;
+}

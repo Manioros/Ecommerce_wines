@@ -1,0 +1,108 @@
+body {
+	font-family: 'Arial';
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	margin-left: 3%;
+}
+.aposundesh_apenergopoihsh {
+	list-style: none;
+	position: absolute;
+    top: 1%;
+    right: 1%;
+}
+
+.btn {
+	
+}
+#searchbtn {
+	bottom: 20px;
+	border-radius: 5px;
+	color: #ffffff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 40%;
+}
+
+.btn:hover {
+	color: #b3b3b3;
+}
+
+
+.nav {
+	background-color: #337ab7;
+	color: #ffffff;
+	list-style: none;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.nav > li {
+	display: inline-block;
+	padding: 0 25px 0 25px;
+}
+
+.btn-link{
+  border:none;
+  outline:none;
+  background:none;
+  cursor:pointer;
+  color:#ffffff;
+  padding:0;
+  text-decoration:none;
+  font-family:inherit;
+  font-size:inherit;
+}
+
+.btn-link:hover {
+	color: #c1c1c1;
+}
+
+.info1 {
+	float: left;
+	padding-top: 5%;
+	padding-left: 40%;
+	list-style: none;
+	font-size: 135%;
+}
+
+.info1 > li, .info2 > li {
+  margin: 20px 0;
+}
+
+.stoixeia_agora_epistrofh_pwlhsh {
+	padding-top: 5%;
+	padding-left: 38%;
+	margin: 20px;
+	margin-top: 3%;
+}
+
+#agora_epistrofh_plhrwmh_btn {
+	color: #ffffff;
+	background: #337ab7;
+	border-radius: 5px;
+	padding: 5px;
+	margin-left: 15%;
+	margin-top: 2%;
+}
+
+#poso_agoras {
+	margin-left: 132px;
+}
+
+#poso_epistrofhs {
+	margin-left: 99px;
+}
+
+.img-thumb{
+	width:80px;
+	height: 200px;
+}
+
+img.details{
+	width: 33%;
+	margin: 15px auto;
+}
